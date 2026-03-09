@@ -1,0 +1,2 @@
+# 设置默认 Python 版本
+build --@rules_python//python/config_settings:python_version=3.11

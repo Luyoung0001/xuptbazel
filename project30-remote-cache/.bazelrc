@@ -1,0 +1,8 @@
+# 本地磁盘缓存配置
+build:cache --disk_cache=/tmp/bazel-disk-cache
+
+# 远程缓存配置（示例）
+build:remote --remote_cache=http://localhost:8080
+
+# 显示详细的缓存信息
+build --experimental_ui_debug_all_events

@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define APP_NAME "{APP_NAME}"
+#define APP_VERSION "{APP_VERSION}"
+#define BUILD_TIME "{BUILD_TIME}"
+
+#endif

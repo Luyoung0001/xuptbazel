@@ -1,0 +1,21 @@
+# Bazel
+bazel-*
+.bazel
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C++
+*.o
+*.so
+*.a
+
+# Temp
+*.tmp
+*.log
