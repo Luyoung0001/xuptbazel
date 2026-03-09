@@ -1,5 +1,4 @@
 # Bazel
-bazel-*
 .bazel
 
 # IDE
@@ -19,3 +18,4 @@ __pycache__/
 # Temp
 *.tmp
 *.log
+.claude
